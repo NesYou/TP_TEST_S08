@@ -1,0 +1,19 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+Z
+*src/main/java/type/StructureVisitable.java,0/b/0b6b20c61617a1bf50e0b4f1a44372a146dd4759
+O
+src/main/java/type/Naturel.java,f/8/f89d645bbbb07a1873fe3344eb5cd6ee5ca072d5
+R
+"src/main/java/type/sigma/Zero.java,a/9/a965584becd15b0e8f76a17877ebf729cb94d186
+^
+.src/main/java/type/tools/FabriqueMouchard.java,3/0/303cf78436c58862822ed036fad586b3da70b381
+`
+0src/main/java/type/InstanceVisiteeInterface.java,7/f/7f9226659ca134a688ab6f5b9348c9c1d83f0d2d
+R
+"src/main/java/type/sigma/Succ.java,9/3/93dcdce6fcf280a033836e24f56f63e5dd93b778
+[
++src/main/java/type/sigma/Constructeurs.java,f/1/f1e8c2cb71b31d73d6128bf8fb8a82e605eea076
+V
+&src/test/java/type/sigma/SuccTest.java,7/d/7d278d890672952e74dd2debdf405471c766fa10
